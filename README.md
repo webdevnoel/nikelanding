@@ -1,1 +1,7 @@
 # nikelanding
+https://nike-coral.vercel.app/
+LANGING PAGE FOR WEBSITE OF NIKE
+TECHNOLOGY USED
+# REACT 
+# TAILWIND CSS
+# VERCEL FOR HOSTING
